@@ -1,3 +1,1 @@
-Hosted on GitHub Pages: https://stuti222.github.io/Stuti/
-# Stuti
-# Stuti
+Hosted on GitHub Pages: https://stuti222.github.io/Stuti/ 
