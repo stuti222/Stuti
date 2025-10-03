@@ -32,7 +32,7 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 ## 💼 Industry Roles & Experience
 
 ### 🔹 Printerpix — Junior Marketing Analyst  
-[![🎥 Video](https://img.shields.io/badge/🎥%20Video-red?style=flat-square)](#)
+[![🎥 Video](https://img.shields.io/badge/🎥%20Video-red?style=flat-square)](https://drive.google.com/file/d/1Mj4PogFCR3DeG5dRLLPgYdaMZe77sbWp/view?usp=drive_link)
 [![📑 Slides](https://img.shields.io/badge/📑%20Slides-blue?style=flat-square)](https://github.com/stuti222/Stuti/blob/main/Folder/Printerpix_experience_presentation.pdf)
 
 > Focus: Campaign analytics, conversion tracking, and performance dashboards
