@@ -22,7 +22,7 @@ My path from **Mathematics** to **AI and Data Science**, the motivations that dr
 
 ## 🧠 Skills & What I’ve Been Learning
 
-[![Watch Video](https://img.shields.io/badge/🎥%20Watch%20Video-red?style=for-the-badge)](#)
+[![Watch Video](https://img.shields.io/badge/🎥%20Watch%20Video-red?style=for-the-badge)](https://drive.google.com/file/d/1nqSX9fJsA0Jvuv382HsyV7T5w3SnKlxN/view?usp=drive_link)
 [![View Slides](https://img.shields.io/badge/📑%20View%20Slides-blue?style=for-the-badge)](https://github.com/stuti222/Stuti/blob/main/Folder/Skills_and_What_I_ve_Been_Learning.pdf)
 
 Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisation**
