@@ -45,7 +45,7 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 ---
 
 ### 🔹 Office for National Statistics (ONS) — Data Scientist  
-[![🎥 Video](https://img.shields.io/badge/🎥%20Video-red?style=flat-square)](#)
+[![🎥 Video](https://img.shields.io/badge/🎥%20Video-red?style=flat-square)](https://drive.google.com/file/d/1rz1_XHS1w9sO4vJkfieWFoE9pIv22sMO/view?usp=drive_link)
 [![📑 Slides](https://img.shields.io/badge/📑%20Slides-blue?style=flat-square)](https://github.com/stuti222/Stuti/blob/main/Folder/ONS_experience_presentation.pdf)
 
 **🔄 ONS Pipeline Project** | Automated data acquisition and transformation pipeline | [Presentation](https://github.com/stuti222/Stuti/blob/main/Folder/data_acquisition_and_transformation_project_presentation.pdf) 
