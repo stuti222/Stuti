@@ -12,7 +12,7 @@ Each section includes **videos** and **slides** capturing what I’ve learned, b
 
 ## 🎯 Career Journey & Motivation
 
-[![Watch on YouTube](https://img.shields.io/badge/🎥%20Watch%20Video-red?style=for-the-badge)](#)
+[![Video](https://img.shields.io/badge/🎥%20Watch%20Video-red?style=for-the-badge)](https://drive.google.com/file/d/1a40kLPecXDvecsm_ZgvrShjM_wqB4EjQ/view?usp=drive_link)
 [![View Slides](https://img.shields.io/badge/📑%20View%20Slides-blue?style=for-the-badge)](https://github.com/stuti222/Stuti/blob/main/Folder/Career_Journey.pdf)
 
 My path from **Mathematics** to **AI and Data Science**, the motivations that drive me, and the insights I’ve gained transitioning across fields and industries.
@@ -22,7 +22,7 @@ My path from **Mathematics** to **AI and Data Science**, the motivations that dr
 
 ## 🧠 Skills & What I’ve Been Learning
 
-[![Watch on YouTube](https://img.shields.io/badge/🎥%20Watch%20Video-red?style=for-the-badge)](#)
+[![Video](https://img.shields.io/badge/🎥%20Watch%20Video-red?style=for-the-badge)](#)
 [![View Slides](https://img.shields.io/badge/📑%20View%20Slides-blue?style=for-the-badge)](https://github.com/stuti222/Stuti/blob/main/Folder/Skills_and_What_I_ve_Been_Learning.pdf)
 
 Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisation**
