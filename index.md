@@ -77,7 +77,7 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 
 | Project | Focus | Links |
 |----------|--------|-------|
-| **🎓 Dissertation: LASSO Methodology** | Sparse regression modeling for predictive performance | [🎥 Video](#) • [📑 Link](https://github.com/stuti222/LASSO_methodology) |
+| **🎓 Dissertation: LASSO Methodology** | Sparse regression modeling for predictive performance | [🎥 Video](https://drive.google.com/file/d/15pXDPT-OKkASJvyl84aQyOyRBdpE2Y0o/view?usp=drive_link) • [📑 Link](https://github.com/stuti222/LASSO_methodology) |
 | **📈 Logistic Regression Classification** | Model building, evaluation, and interpretation | [🎥 Video](#) • [📑 Link](https://github.com/stuti222/Classification_using_logistic_regression) |
 | **🤖 Deep Neural Networks: Building & Breaking** | Exploring neural architectures and performance tradeoffs | [🎥 Video](#) • [📑 Link](https://github.com/stuti222/Classification_with_deep_neural_networks_and_breaking_the_deep_neural_networks) |
 | **📋 Survey Data Analysis** | Data cleaning, wrangling, and insights from survey data | [🎥 Video](#) • [📑 Link](https://github.com/stuti222/Survey-Data-Analysis) |
