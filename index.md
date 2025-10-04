@@ -60,7 +60,7 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 ---
 
 ### 🔹 Transolved — Data Scientist  
-[![🎥 Video](https://img.shields.io/badge/🎥%20Video-red?style=flat-square)](#)
+[![🎥 Video](https://img.shields.io/badge/🎥%20Video-red?style=flat-square)](https://drive.google.com/file/d/1S2mIfs9CpGD1EccAMWR9xnSi6aDRPkaw/view?usp=drive_link)
 [![📑 Slides](https://img.shields.io/badge/📑%20Slides-blue?style=flat-square)](https://github.com/stuti222/Stuti/blob/main/Folder/Transolved_experience_presentation.pdf)
 
 **Feature Selection Techniques** | [Notes](https://github.com/stuti222/Stuti/blob/main/Folder/Feature_selection.pdf) 
