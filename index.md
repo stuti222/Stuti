@@ -81,7 +81,7 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 | **📈 Logistic Regression Classification** | Model building, evaluation, and interpretation | [🎥 Video](https://drive.google.com/file/d/11evF4TFa7ci43hDHGs_3iN7M1BMCegum/view?usp=drive_link) • [📑 Link](https://github.com/stuti222/Classification_using_logistic_regression) |
 | **🤖 Deep Neural Networks: Building & Breaking** | Exploring neural architectures and performance tradeoffs | [🎥 Video](https://drive.google.com/file/d/1Oy4yNvSFosovwfAlCKlwMKfMiDnimt7s/view?usp=drive_link) • [📑 Link](https://github.com/stuti222/Classification_with_deep_neural_networks_and_breaking_the_deep_neural_networks) |
 | **📋 Survey Data Analysis** | Data cleaning, wrangling, and insights from survey data | [🎥 Video](https://drive.google.com/file/d/1lVUp4q28VDMyvsAVCQdUNl_u7zr1_LDF/view?usp=drive_link) • [📑 Link](https://github.com/stuti222/Survey-Data-Analysis) |
-| **📊 Statistical Data Science** | Statistical Modeling for Process Optimisation | [🎥 Video](#) • [📑 Link](https://github.com/stuti222/Statistical-Analysis-and-Optimisation) | 
+| **📊 Statistical Data Science** | Statistical Modeling for Process Optimisation | [🎥 Video](https://drive.google.com/file/d/1-Hb6QijSE6oGGNz95a37MMZt7pzM04qB/view?usp=drive_link) • [📑 Link](https://github.com/stuti222/Statistical-Analysis-and-Optimisation) | 
 
 ---
 
