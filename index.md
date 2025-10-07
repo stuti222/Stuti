@@ -87,7 +87,7 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 
 ## 🚀 Career Direction & Vision
 
-[![🎥 Watch Overview](https://img.shields.io/badge/🎥%20Watch%20Overview-red?style=for-the-badge)](#)
+[![🎥 Watch Overview](https://img.shields.io/badge/🎥%20Watch%20Overview-red?style=for-the-badge)](https://drive.google.com/file/d/1G-taHWZWCyA9WA4CzWpHcxX_D_P_v1jn/view?usp=drive_link)
 [![📑 View Slides](https://img.shields.io/badge/📑%20View%20Slides-blue?style=for-the-badge)](https://github.com/stuti222/Stuti/blob/main/Folder/Career_Direction_and_Vision.pdf)
 
 I’m exciting to continue on my learning and growth path, and work on many more meaningful projects.  
