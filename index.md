@@ -40,7 +40,6 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 - Report automation (Excel, SQL Server, Tableau, Looker Studio, GA4, Google Ads)
 - Competitive pricing research 
 - Analytical pipeline transformation and process translation into Python and Git
-> Tools: Excel, SQL, Marketing BI  
 
 ---
 
@@ -55,7 +54,6 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 - OOP principles, APIs, secure handling
 - CI/CD deployment with GitLab & Jenkins
 - Streamlit prototype for non-technical users 
-> Skills: Python, pandas, ETL, QA, documentation
 
 ---
 
@@ -67,9 +65,7 @@ Skills across **Python, Statistics, SQL, Machine Learning, and Data Visualisatio
 
 > Focus: Volatility modeling ML projects, feature engineering, feature selection, and data-driven insights 
 - Time-series regression & classification on financial data
-- Automated workflows, modular documented code
-- Delivered technical reports & presentations
-> Skills: Python, Scikit-learn, reporting automation  
+- Delivered efficient Python workflows, technical reports, and process documentaion 
 
 ---
 
